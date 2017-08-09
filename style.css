@@ -1,0 +1,24 @@
+
+body{
+  margin: 100px 150px;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 20px;
+  align-items:flex-start;
+}
+
+.food {
+  margin: 10px;
+}
+
+h3{
+  padding-left: 10px;
+}
+
+img{
+  border: solid grey 3px;
+}
